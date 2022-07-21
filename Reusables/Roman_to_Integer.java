@@ -1,9 +1,8 @@
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.Set;
 
-class Solution{
+class Roman_to_Integer{
     public static int Map(char c)
     {
         Map<Character,Integer> map = new HashMap<>();
